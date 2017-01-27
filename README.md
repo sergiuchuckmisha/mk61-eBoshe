@@ -1,6 +1,12 @@
 # mk61-eBoshe
 [Boshe](https://ru.wikipedia.org/wiki/%D0%91%D0%B0%D1%88%D0%B5_(%D0%B8%D0%B3%D1%80%D0%B0)) game on mk-61 programming calculator
 
+# Начальные условия: 
+## В кучке 9 камней
+## играют 2 игрока (человека)
+## каждый по очереди берет из кучки не более чем 3 камня за ход
+
+
 # Как запускать:
 на [сайте](http://mk-61.moy.su/emulator.html) следует
  ## в поле "Код программы:" ввести [исходный код программы](https://github.com/sergiuchuckmisha/mk61-eBoshe/blob/master/src/eBoshe.mk61)
